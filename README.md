@@ -30,7 +30,8 @@ A partir de aquí, se podrá observar que se ha realizado exitosamente el objeti
 
 ## Demostración:
 
-<video src="Ejemplo.mov"></video>
+![Demostracion](./src/Ejemplo.mov)
+
 
 Y, ¡hasta aquí!
 
