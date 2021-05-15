@@ -28,10 +28,7 @@ node main.js
 
 A partir de aquí, se podrá observar que se ha realizado exitosamente el objetivo de la prueba.
 
-## Demostración:
-
-![Demostracion](./src/Ejemplo.mov)
-
+---
 
 Y, ¡hasta aquí!
 
